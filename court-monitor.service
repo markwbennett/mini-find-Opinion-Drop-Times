@@ -1,0 +1,27 @@
+[Unit]
+Description=Texas Court Opinion Release Monitor
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=%i
+WorkingDirectory=/home/mb/github/mini-find-Opinion-Drop-Times
+ExecStart=/usr/bin/python3 /home/mb/github/mini-find-Opinion-Drop-Times/court_opinion_monitor.py
+Restart=always
+RestartSec=30
+StandardOutput=journal
+StandardError=journal
+
+# Environment variables
+Environment=PYTHONUNBUFFERED=1
+
+# Security settings
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/home/mb/github/mini-find-Opinion-Drop-Times
+
+[Install]
+WantedBy=multi-user.target 

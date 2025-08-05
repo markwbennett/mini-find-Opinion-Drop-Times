@@ -1,0 +1,116 @@
+{
+  "2025-07-28": {
+    "coa06": {
+      "release_time": "2025-07-28T08:03:55.397718",
+      "status": "released"
+    }
+  },
+  "2025-07-29": {
+    "coa01": {
+      "release_time": "2025-07-29T08:04:09.081855",
+      "status": "released"
+    },
+    "coa03": {
+      "release_time": "2025-07-29T08:04:09.081855",
+      "status": "released"
+    },
+    "coa06": {
+      "release_time": "2025-07-29T08:04:09.081855",
+      "status": "released"
+    },
+    "coa14": {
+      "release_time": "2025-07-29T08:04:09.081855",
+      "status": "released"
+    }
+  },
+  "2025-07-30": {
+    "coa03": {
+      "release_time": "2025-07-30T08:00:33.770157",
+      "status": "released"
+    },
+    "coa04": {
+      "release_time": "2025-07-30T08:00:33.770157",
+      "status": "released"
+    },
+    "coa06": {
+      "release_time": "2025-07-30T08:00:33.770157",
+      "status": "released"
+    },
+    "coa09": {
+      "release_time": "2025-07-30T08:00:33.770157",
+      "status": "released"
+    }
+  },
+  "2025-07-31": {
+    "coa01": {
+      "release_time": "2025-07-31T08:01:58.938966",
+      "status": "released"
+    },
+    "coa03": {
+      "release_time": "2025-07-31T08:01:58.938966",
+      "status": "released"
+    },
+    "coa06": {
+      "release_time": "2025-07-31T08:01:58.938966",
+      "status": "released"
+    },
+    "coa09": {
+      "release_time": "2025-07-31T08:01:58.938966",
+      "status": "released"
+    },
+    "coa11": {
+      "release_time": "2025-07-31T08:01:58.938966",
+      "status": "released"
+    },
+    "coa13": {
+      "release_time": "2025-07-31T08:01:58.938966",
+      "status": "released"
+    },
+    "coa14": {
+      "release_time": "2025-07-31T08:01:58.938966",
+      "status": "released"
+    },
+    "coa10": {
+      "release_time": "2025-07-31T09:02:54.875649",
+      "status": "released"
+    }
+  },
+  "2025-08-01": {
+    "coa03": {
+      "release_time": "2025-08-01T08:04:11.006708",
+      "status": "released"
+    },
+    "coa06": {
+      "release_time": "2025-08-01T08:04:11.006708",
+      "status": "released"
+    }
+  },
+  "2025-08-04": {
+    "coa06": {
+      "release_time": "2025-08-04T08:04:22.986570",
+      "status": "released"
+    }
+  },
+  "2025-08-05": {
+    "coa01": {
+      "release_time": "2025-08-05T08:04:35.888470",
+      "status": "released"
+    },
+    "coa03": {
+      "release_time": "2025-08-05T08:04:35.888470",
+      "status": "released"
+    },
+    "coa04": {
+      "release_time": "2025-08-05T08:04:35.888470",
+      "status": "released"
+    },
+    "coa06": {
+      "release_time": "2025-08-05T08:04:35.888470",
+      "status": "released"
+    },
+    "coa14": {
+      "release_time": "2025-08-05T08:04:35.888470",
+      "status": "released"
+    }
+  }
+}
